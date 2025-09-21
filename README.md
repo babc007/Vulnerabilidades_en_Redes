@@ -13,12 +13,10 @@ Se identificaron vulnerabilidades críticas, se evaluaron riesgos y se aplicaron
 - Kali Linux
 - Wireshark
 - Nmap
-- Nessus (si lo usaste)
-- Otras herramientas de análisis de vulnerabilidades
 
 ## Evidencias
 Incluye capturas de las pruebas y resultados obtenidos.  
-*(Aquí puedes enlazar imágenes o un PDF con el informe final)*
+
 
 ## Resultados
 Se logró identificar vulnerabilidades en servicios expuestos y se plantearon medidas de seguridad correctivas.
